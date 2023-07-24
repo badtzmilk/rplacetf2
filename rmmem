@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/nDnFaw4pFy",
+  "templates": [
+    {
+      "name": "jojo logo",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131356822322806856/1132877694560899143/place2023V9.png"
+      ],
+      "x": 299,
+      "y": 887
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
